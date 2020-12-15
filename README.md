@@ -49,7 +49,7 @@ You only have one day to work on this project. A good sized project will have 3 
 
 ##### Games
 * `Monopoly`
-* `Pokemon`
+* `pokemon`
 
 It is perfectly fine if more than one group chooses the same domain. There are many ways to build out Object Oriented systems, and we can benefit from seeing different implementations of the same domain! If you want to build out a domain that is **not on the list**, you must get it approved by an instructor **before moving on** to the next step.
 
