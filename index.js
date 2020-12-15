@@ -38,11 +38,6 @@ class Trainer {
         this.pokemon[idx].isCaptured = false;
         this.pokemon.splice(idx, 1);
     }
-    
-    useItem(){
-        
-    }
-    
 }
 
 class Pokemon{
